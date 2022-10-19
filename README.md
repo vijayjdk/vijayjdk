@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijayjdk
+- 👋 Hi, I’m Vijay
 - 👀 I’m interested in Test Automation
 - 🌱 I’m currently learning Selenium c#
 - 💞️ I’m looking to collaborate on ...
